@@ -18,7 +18,8 @@ python-dotenv
 #Libreria para utilizar la api de Kaggle
 kaggle
 
-
+#Para análisis de los datos.
+pandas
 
 
 #Módulo estándar de Python para interactuar con el sistema y el intérprete (no requiere instalación).
