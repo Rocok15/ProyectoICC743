@@ -55,8 +55,11 @@ KAGGLE_CONFIG_DIR=./.kaggle
 Si desea subir o actualizar el repositorio es recomendable crear un archivo .gitignore que contenga las siguientes líneas de código
 
 .venv
+
 .env
+
 .kaggle
+
 
 Listo.
 
