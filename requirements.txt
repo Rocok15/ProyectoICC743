@@ -31,6 +31,11 @@ os
 #Módulo estándar de Python para manejar datos en formato JSON (no requiere instalación).
 json
 
+#!pip install librerias en el venv
+pandas
+matplotlib
+seaborn
+scikit-learn
 
 
 #Según pip freeze > requirements.txt
